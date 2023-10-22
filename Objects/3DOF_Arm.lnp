@@ -1,0 +1,20 @@
+--cpu=Cortex-M4.fp.sp
+".\objects\adc.o"
+".\objects\can.o"
+".\objects\dma.o"
+".\objects\gpio.o"
+".\objects\i2c.o"
+".\objects\interrupt.o"
+".\objects\lenguyenkhanhlam.o"
+".\objects\main.o"
+".\objects\pid.o"
+".\objects\spi.o"
+".\objects\systick.o"
+".\objects\timer.o"
+".\objects\uart.o"
+".\objects\startup_stm32f446xx.o"
+".\objects\system_stm32f4xx.o"
+--strict --scatter ".\Objects\3DOF_Arm.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\3DOF_Arm.map" -o .\Objects\3DOF_Arm.axf
