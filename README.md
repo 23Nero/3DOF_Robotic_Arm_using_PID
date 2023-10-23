@@ -41,10 +41,10 @@ Define a home position for the robot with all joint angles at zero.
 **Connection Status:**
 Display the status of the COM port connection.
 
-# USART2 Interrupt-based Data Handling
+# BOARD NUCLEO-F446RE
+<img width="910" alt="[Screenshot 2023-10-23 212732" src="https://github.com/23Nero/3DOF_Robotic_Arm_using_PID/assets/134192393/4b5d611a-6d68-4368-93de-ee3992da6dd8](https://www.open-electronics.org/wp-content/uploads/2015/08/Figura2-500x467.png)"> 
 
-This repository contains code for handling data received through USART2 interrupts on a microcontroller. The code extracts and processes incoming data based on specific patterns and triggers actions accordingly.
-
+The STM32F466RE is a high-performance ARM Cortex-M4 microcontroller with up to 180 MHz clock speed, extensive memory, and versatile communication interfaces, suitable for various embedded applications.
 ## Table of Contents
 
 - [Introduction](#introduction)
