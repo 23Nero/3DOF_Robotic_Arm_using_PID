@@ -18,7 +18,7 @@ A PID Controller is a commonly used automatic control system in engineering and 
  - Derivative (D): It takes the derivative of the error. This helps control the rate of change of the output, reducing oscillations and stabilizing the system.
 
 ## GUI
-<img width="910" alt="Screenshot 2023-10-23 212732" src="https://github.com/23Nero/3DOF_Robotic_Arm_using_PID/assets/134192393/4b5d611a-6d68-4368-93de-ee3992da6dd8"> 
+<img width="910" alt="[Screenshot 2023-10-23 212732" src="https://github.com/23Nero/3DOF_Robotic_Arm_using_PID/assets/134192393/4b5d611a-6d68-4368-93de-ee3992da6dd8](https://www.open-electronics.org/wp-content/uploads/2015/08/Figura2-500x467.png)"> 
 
 
 This Python GUI application, built using PyQt6, serves as a control interface for a 3-degree-of-freedom (3DOF) robot. Its main features include:
