@@ -71,4 +71,3 @@ The provided code demonstrates how to work with USART2 interrupts to receive and
 
 - Name: Lam Khanh Nguyen Le
 - Github: [23Nero](https://github.com/23Nero)
-- 
