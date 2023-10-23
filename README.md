@@ -42,7 +42,7 @@ Define a home position for the robot with all joint angles at zero.
 Display the status of the COM port connection.
 
 # BOARD NUCLEO-F446RE
-<img width="910" alt="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1776/NUCLEO-F446RE.jpg"> 
+<img src="[https://...](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1776/NUCLEO-F446RE.jpg)" 
 
 The STM32F466RE is a high-performance ARM Cortex-M4 microcontroller with up to 180 MHz clock speed, extensive memory, and versatile communication interfaces, suitable for various embedded applications.
 ## Table of Contents
